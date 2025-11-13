@@ -30,7 +30,8 @@
 
   "entities": [
     {
-      "id": "temple_serpent",
+      "id":"entity0",
+      "model": "temple_serpent",
       "transform": {
         "position": [
           0,
@@ -61,7 +62,8 @@
       }
     },
     {
-      "id": "cube",
+      "id":"entity1",
+      "model": "cube",
       "transform": {
         "position": [
           2,
@@ -82,3 +84,4 @@
     }
   ]
 }
+
