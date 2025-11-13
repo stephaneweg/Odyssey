@@ -1,0 +1,50 @@
+﻿{
+  "version": "1.0",
+  "meta": {
+    "title": "Temple du Serpent"
+  }
+  "models": {
+    "temple_serpent": {
+      "type": "gltf",
+      "src": "models/temple_serpent/scene.gltf"
+    },
+    "statue_serpent": {
+      "type": "gltf",
+      "src": "models/statue_serpent/scene.gltf"
+    }
+    "cube": {
+      "type": "primitive",
+      "shape": "cube",
+      "size": [ 1, 1, 1 ]
+    },
+    "entities" [
+      {
+        "id": "temple_serpent",
+        "transform": {
+          "position": [ 0, 0, 2 ],
+          "rotation": [ 0, 0, 0 ],
+          "scale": [ 1, 1, 1 ]
+        },
+        "portal": {
+          "target": "WebApplication1/Worlds/inside_temple.json"
+        },
+        "trigger": {
+          "type": "proximity",
+          "radius": 3,
+          "onEnter": {
+            "action": "showMessage",
+            "message": "Vous êtes à l'entrée du Temple du Serpent. Entrez pour découvrir ses mystères."
+          }
+        }
+      },
+      {
+        "id": "cube",
+        "transform": {
+          "position": [ 2, 0.5, 0 ],
+          "rotation": [ 0, 45, 0 ],
+          "scale": [ 1, 1, 1 ]
+        }
+      }
+    ]
+  }
+}
