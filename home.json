@@ -2,6 +2,7 @@
   "version": "1.0",
   "meta": {
     "title": "Temple du Serpent"
+    "spawn":[0,0,0]
   }
   "models": {
     "temple_serpent": {
@@ -47,4 +48,5 @@
       }
     ]
   }
+
 }
