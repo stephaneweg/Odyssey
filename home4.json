@@ -53,6 +53,24 @@
         1.0
       ],
       "textureData": ""
+    },
+    "starfish": {
+      "color": [
+        0.882352948,
+        0.5921569,
+        0.5058824,
+        1.0
+      ],
+      "textureData": ""
+    },
+    "lily_blue": {
+      "color": [
+        0.0,
+        0.435294122,
+        0.870588243,
+        1.0
+      ],
+      "textureData": ""
     }
   },
   "models": {
@@ -26343,7 +26361,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_1",
@@ -26366,7 +26385,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_2",
@@ -26389,7 +26409,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_3",
@@ -26412,7 +26433,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_4",
@@ -26435,7 +26457,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_5",
@@ -26458,7 +26481,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_6",
@@ -26481,7 +26505,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_7",
@@ -26504,7 +26529,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_8",
@@ -26527,7 +26553,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_9",
@@ -26550,7 +26577,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_10",
@@ -26573,7 +26601,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_11",
@@ -26596,7 +26625,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_12",
@@ -26619,7 +26649,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_13",
@@ -26642,7 +26673,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_14",
@@ -26665,7 +26697,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_15",
@@ -26688,7 +26721,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_16",
@@ -26711,7 +26745,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_17",
@@ -26734,7 +26769,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_18",
@@ -26757,7 +26793,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_19",
@@ -26780,7 +26817,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_20",
@@ -26803,7 +26841,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_21",
@@ -26826,7 +26865,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_22",
@@ -26849,7 +26889,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_23",
@@ -26872,7 +26913,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_24",
@@ -26895,7 +26937,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_25",
@@ -26918,7 +26961,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_26",
@@ -26941,7 +26985,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_27",
@@ -26964,7 +27009,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_28",
@@ -26987,7 +27033,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_29",
@@ -27010,7 +27057,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_30",
@@ -27033,7 +27081,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_31",
@@ -27056,7 +27105,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_32",
@@ -27079,7 +27129,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_33",
@@ -27102,7 +27153,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_34",
@@ -27125,7 +27177,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_35",
@@ -27148,7 +27201,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_36",
@@ -27171,7 +27225,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_37",
@@ -27194,7 +27249,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_38",
@@ -27217,7 +27273,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_39",
@@ -27240,7 +27297,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_40",
@@ -27263,7 +27321,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_41",
@@ -27286,7 +27345,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_42",
@@ -27309,7 +27369,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_43",
@@ -27332,7 +27393,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_44",
@@ -27355,7 +27417,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_45",
@@ -27378,7 +27441,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_46",
@@ -27401,7 +27465,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_47",
@@ -27424,7 +27489,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_48",
@@ -27447,7 +27513,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_49",
@@ -27470,7 +27537,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_50",
@@ -27493,7 +27561,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_51",
@@ -27516,7 +27585,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_52",
@@ -27539,7 +27609,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_53",
@@ -27562,7 +27633,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_54",
@@ -27585,7 +27657,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_55",
@@ -27608,7 +27681,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_56",
@@ -27631,7 +27705,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_57",
@@ -27654,7 +27729,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_58",
@@ -27677,7 +27753,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_59",
@@ -27700,7 +27777,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_60",
@@ -27723,7 +27801,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_61",
@@ -27746,7 +27825,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_62",
@@ -27769,7 +27849,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_63",
@@ -27792,7 +27873,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_64",
@@ -27815,7 +27897,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_65",
@@ -27838,7 +27921,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_66",
@@ -27861,7 +27945,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_67",
@@ -27884,7 +27969,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_68",
@@ -27907,7 +27993,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_69",
@@ -27930,7 +28017,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_70",
@@ -27953,7 +28041,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_71",
@@ -27976,7 +28065,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_72",
@@ -27999,7 +28089,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_73",
@@ -28022,7 +28113,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_74",
@@ -28045,7 +28137,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_75",
@@ -28068,7 +28161,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_76",
@@ -28091,7 +28185,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_77",
@@ -28114,7 +28209,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_78",
@@ -28137,7 +28233,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_79",
@@ -28160,7 +28257,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_80",
@@ -28183,7 +28281,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_81",
@@ -28206,7 +28305,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_82",
@@ -28229,7 +28329,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_83",
@@ -28252,7 +28353,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_84",
@@ -28275,7 +28377,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_85",
@@ -28298,7 +28401,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_86",
@@ -28321,7 +28425,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_87",
@@ -28344,7 +28449,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_88",
@@ -28367,7 +28473,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_89",
@@ -28390,7 +28497,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_90",
@@ -28413,7 +28521,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_91",
@@ -28436,7 +28545,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_92",
@@ -28459,7 +28569,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_93",
@@ -28482,7 +28593,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_94",
@@ -28505,7 +28617,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_95",
@@ -28528,7 +28641,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_96",
@@ -28551,7 +28665,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_97",
@@ -28574,7 +28689,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_98",
@@ -28597,7 +28713,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_99",
@@ -28620,7 +28737,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_100",
@@ -28643,7 +28761,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_101",
@@ -28666,7 +28785,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_102",
@@ -28689,7 +28809,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_103",
@@ -28712,7 +28833,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_104",
@@ -28735,7 +28857,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_105",
@@ -28758,7 +28881,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_106",
@@ -28781,7 +28905,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_107",
@@ -28804,7 +28929,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_108",
@@ -28827,7 +28953,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_109",
@@ -28850,7 +28977,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_110",
@@ -28873,7 +29001,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_111",
@@ -28896,7 +29025,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_112",
@@ -28919,7 +29049,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_113",
@@ -28942,7 +29073,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_114",
@@ -28965,7 +29097,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_115",
@@ -28988,7 +29121,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_116",
@@ -29011,7 +29145,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_117",
@@ -29034,7 +29169,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_118",
@@ -29057,7 +29193,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_119",
@@ -29080,7 +29217,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_120",
@@ -29103,7 +29241,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_121",
@@ -29126,7 +29265,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_122",
@@ -29149,7 +29289,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_123",
@@ -29172,7 +29313,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_124",
@@ -29195,7 +29337,10 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": [
+        "starfish"
+      ]
     },
     {
       "id": "entity_125",
@@ -29218,7 +29363,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_126",
@@ -29241,7 +29387,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_127",
@@ -29264,56 +29411,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_128",
-      "model": "environment_path_path_center",
-      "transform": {
-        "position": [
-          0.0,
-          3.0,
-          13.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_129",
-      "model": "environment_path_path_center",
-      "transform": {
-        "position": [
-          -1.0,
-          3.0,
-          13.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_130",
       "model": "environment_path_path_center",
       "transform": {
         "position": [
@@ -29333,10 +29435,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_131",
+      "id": "entity_129",
       "model": "environment_path_path_center",
       "transform": {
         "position": [
@@ -29356,10 +29459,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_132",
+      "id": "entity_130",
       "model": "environment_path_path_center",
       "transform": {
         "position": [
@@ -29379,10 +29483,13 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": [
+        "wood_dark"
+      ]
     },
     {
-      "id": "entity_133",
+      "id": "entity_131",
       "model": "environment_path_path_center",
       "transform": {
         "position": [
@@ -29402,10 +29509,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_134",
+      "id": "entity_132",
       "model": "environment_path_path_side",
       "transform": {
         "position": [
@@ -29425,7 +29533,56 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_133",
+      "model": "environment_path_path_side",
+      "transform": {
+        "position": [
+          -2.0,
+          3.0,
+          9.0
+        ],
+        "rotation": [
+          180.0,
+          0.0,
+          180.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_134",
+      "model": "environment_path_path_side",
+      "transform": {
+        "position": [
+          -2.0,
+          3.0,
+          14.0
+        ],
+        "rotation": [
+          180.0,
+          0.0,
+          180.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_135",
@@ -29434,7 +29591,7 @@
         "position": [
           -2.0,
           3.0,
-          9.0
+          13.0
         ],
         "rotation": [
           180.0,
@@ -29448,7 +29605,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_136",
@@ -29457,7 +29615,7 @@
         "position": [
           -2.0,
           3.0,
-          14.0
+          12.0
         ],
         "rotation": [
           180.0,
@@ -29471,7 +29629,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_137",
@@ -29480,7 +29639,7 @@
         "position": [
           -2.0,
           3.0,
-          13.0
+          11.0
         ],
         "rotation": [
           180.0,
@@ -29494,7 +29653,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_138",
@@ -29503,52 +29663,6 @@
         "position": [
           -2.0,
           3.0,
-          12.0
-        ],
-        "rotation": [
-          180.0,
-          0.0,
-          180.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_139",
-      "model": "environment_path_path_side",
-      "transform": {
-        "position": [
-          -2.0,
-          3.0,
-          11.0
-        ],
-        "rotation": [
-          180.0,
-          0.0,
-          180.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_140",
-      "model": "environment_path_path_side",
-      "transform": {
-        "position": [
-          -2.0,
-          3.0,
           10.0
         ],
         "rotation": [
@@ -29563,7 +29677,56 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_139",
+      "model": "environment_path_path_side",
+      "transform": {
+        "position": [
+          2.0,
+          3.0,
+          9.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_140",
+      "model": "environment_path_path_side",
+      "transform": {
+        "position": [
+          2.0,
+          3.0,
+          10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_141",
@@ -29572,7 +29735,7 @@
         "position": [
           2.0,
           3.0,
-          9.0
+          11.0
         ],
         "rotation": [
           0.0,
@@ -29586,7 +29749,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_142",
@@ -29595,7 +29759,7 @@
         "position": [
           2.0,
           3.0,
-          10.0
+          12.0
         ],
         "rotation": [
           0.0,
@@ -29609,7 +29773,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_143",
@@ -29618,7 +29783,7 @@
         "position": [
           2.0,
           3.0,
-          11.0
+          13.0
         ],
         "rotation": [
           0.0,
@@ -29632,7 +29797,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_144",
@@ -29641,52 +29807,6 @@
         "position": [
           2.0,
           3.0,
-          12.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_145",
-      "model": "environment_path_path_side",
-      "transform": {
-        "position": [
-          2.0,
-          3.0,
-          13.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_146",
-      "model": "environment_path_path_side",
-      "transform": {
-        "position": [
-          2.0,
-          3.0,
           14.0
         ],
         "rotation": [
@@ -29701,7 +29821,56 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_145",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          -3.0,
+          3.0,
+          9.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_146",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          -3.0,
+          3.0,
+          10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_147",
@@ -29710,7 +29879,7 @@
         "position": [
           -3.0,
           3.0,
-          9.0
+          11.0
         ],
         "rotation": [
           0.0,
@@ -29724,7 +29893,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_148",
@@ -29733,7 +29903,7 @@
         "position": [
           -3.0,
           3.0,
-          10.0
+          12.0
         ],
         "rotation": [
           0.0,
@@ -29747,7 +29917,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_149",
@@ -29756,7 +29927,7 @@
         "position": [
           -3.0,
           3.0,
-          11.0
+          13.0
         ],
         "rotation": [
           0.0,
@@ -29770,7 +29941,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_150",
@@ -29779,7 +29951,7 @@
         "position": [
           -3.0,
           3.0,
-          12.0
+          14.0
         ],
         "rotation": [
           0.0,
@@ -29793,37 +29965,15 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_151",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
-          -3.0,
           3.0,
-          13.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_152",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          -3.0,
           3.0,
           14.0
         ],
@@ -29839,7 +29989,32 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_152",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          3.0,
+          3.0,
+          13.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_153",
@@ -29848,52 +30023,6 @@
         "position": [
           3.0,
           3.0,
-          14.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_154",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          3.0,
-          3.0,
-          13.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_155",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          3.0,
-          3.0,
           12.0
         ],
         "rotation": [
@@ -29908,10 +30037,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_156",
+      "id": "entity_154",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -29931,10 +30061,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_157",
+      "id": "entity_155",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -29954,10 +30085,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_158",
+      "id": "entity_156",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -29977,10 +30109,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_159",
+      "id": "entity_157",
       "model": "environment_hill_hill_side",
       "transform": {
         "position": [
@@ -30000,10 +30133,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_160",
+      "id": "entity_158",
       "model": "environment_hill_hill_side",
       "transform": {
         "position": [
@@ -30023,10 +30157,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_161",
+      "id": "entity_159",
       "model": "environment_hill_hill_side",
       "transform": {
         "position": [
@@ -30046,10 +30181,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_162",
+      "id": "entity_160",
       "model": "environment_hill_hill_corner_outer_2x2",
       "transform": {
         "position": [
@@ -30069,10 +30205,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_163",
+      "id": "entity_161",
       "model": "environment_cliff_cliff_hill_sharp_top",
       "transform": {
         "position": [
@@ -30092,10 +30229,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_164",
+      "id": "entity_162",
       "model": "environment_cliff_cliff_hill_sharp_top",
       "transform": {
         "position": [
@@ -30115,15 +30253,64 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_163",
+      "model": "environment_cliff_cliff_straight_base",
+      "transform": {
+        "position": [
+          6.0,
+          0.0,
+          2.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_164",
+      "model": "environment_path_path_side",
+      "transform": {
+        "position": [
+          6.0,
+          0.0,
+          1.0
+        ],
+        "rotation": [
+          0.0,
+          -90.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_165",
-      "model": "environment_cliff_cliff_straight_base",
+      "model": "environment_cliff_cliff_straight_mid",
       "transform": {
         "position": [
           6.0,
-          0.0,
+          1.0,
           2.0
         ],
         "rotation": [
@@ -30138,20 +30325,21 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_166",
-      "model": "environment_path_path_side",
+      "model": "environment_cliff_cliff_straight_base",
       "transform": {
         "position": [
-          6.0,
+          7.0,
           0.0,
-          1.0
+          2.0
         ],
         "rotation": [
           0.0,
-          -90.0,
+          0.0,
           0.0
         ],
         "scale": [
@@ -30161,20 +30349,21 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_167",
-      "model": "environment_cliff_cliff_straight_mid",
+      "model": "environment_path_path_side",
       "transform": {
         "position": [
-          6.0,
-          1.0,
-          2.0
+          7.0,
+          0.0,
+          1.0
         ],
         "rotation": [
           0.0,
-          0.0,
+          -90.0,
           0.0
         ],
         "scale": [
@@ -30184,15 +30373,16 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_168",
-      "model": "environment_cliff_cliff_straight_base",
+      "model": "environment_cliff_cliff_straight_mid",
       "transform": {
         "position": [
           7.0,
-          0.0,
+          1.0,
           2.0
         ],
         "rotation": [
@@ -30207,56 +30397,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_169",
-      "model": "environment_path_path_side",
-      "transform": {
-        "position": [
-          7.0,
-          0.0,
-          1.0
-        ],
-        "rotation": [
-          0.0,
-          -90.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_170",
-      "model": "environment_cliff_cliff_straight_mid",
-      "transform": {
-        "position": [
-          7.0,
-          1.0,
-          2.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_171",
       "model": "environment_cliff_cliff_straight_base",
       "transform": {
         "position": [
@@ -30276,10 +30421,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_172",
+      "id": "entity_170",
       "model": "environment_path_path_side",
       "transform": {
         "position": [
@@ -30299,10 +30445,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_173",
+      "id": "entity_171",
       "model": "environment_cliff_cliff_straight_mid",
       "transform": {
         "position": [
@@ -30322,7 +30469,56 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_172",
+      "model": "environment_path_path_center",
+      "transform": {
+        "position": [
+          6.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_173",
+      "model": "environment_path_path_center",
+      "transform": {
+        "position": [
+          6.0,
+          0.0,
+          1.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_174",
@@ -30331,7 +30527,7 @@
         "position": [
           6.0,
           0.0,
-          0.0
+          -1.0
         ],
         "rotation": [
           0.0,
@@ -30345,7 +30541,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_175",
@@ -30354,52 +30551,6 @@
         "position": [
           6.0,
           0.0,
-          1.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_176",
-      "model": "environment_path_path_center",
-      "transform": {
-        "position": [
-          6.0,
-          0.0,
-          -1.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_177",
-      "model": "environment_path_path_center",
-      "transform": {
-        "position": [
-          6.0,
-          0.0,
           -2.0
         ],
         "rotation": [
@@ -30414,7 +30565,56 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_176",
+      "model": "environment_path_path_center",
+      "transform": {
+        "position": [
+          7.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_177",
+      "model": "environment_path_path_center",
+      "transform": {
+        "position": [
+          7.0,
+          0.0,
+          1.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_178",
@@ -30423,7 +30623,7 @@
         "position": [
           7.0,
           0.0,
-          0.0
+          -1.0
         ],
         "rotation": [
           0.0,
@@ -30437,7 +30637,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_179",
@@ -30446,52 +30647,6 @@
         "position": [
           7.0,
           0.0,
-          1.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_180",
-      "model": "environment_path_path_center",
-      "transform": {
-        "position": [
-          7.0,
-          0.0,
-          -1.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_181",
-      "model": "environment_path_path_center",
-      "transform": {
-        "position": [
-          7.0,
-          0.0,
           -2.0
         ],
         "rotation": [
@@ -30506,7 +30661,56 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_180",
+      "model": "environment_path_path_center",
+      "transform": {
+        "position": [
+          8.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_181",
+      "model": "environment_path_path_center",
+      "transform": {
+        "position": [
+          8.0,
+          0.0,
+          1.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_182",
@@ -30515,52 +30719,6 @@
         "position": [
           8.0,
           0.0,
-          0.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_183",
-      "model": "environment_path_path_center",
-      "transform": {
-        "position": [
-          8.0,
-          0.0,
-          1.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_184",
-      "model": "environment_path_path_center",
-      "transform": {
-        "position": [
-          8.0,
-          0.0,
           -1.0
         ],
         "rotation": [
@@ -30575,10 +30733,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_185",
+      "id": "entity_183",
       "model": "environment_path_path_center",
       "transform": {
         "position": [
@@ -30598,10 +30757,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_186",
+      "id": "entity_184",
       "model": "environment_hill_hill_side",
       "transform": {
         "position": [
@@ -30621,10 +30781,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_187",
+      "id": "entity_185",
       "model": "environment_hill_hill_side",
       "transform": {
         "position": [
@@ -30644,16 +30805,65 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_186",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          4.0,
+          4.0,
+          4.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_187",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          4.0,
+          4.0,
+          3.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_188",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
+          5.0,
           4.0,
-          4.0,
-          4.0
+          3.0
         ],
         "rotation": [
           0.0,
@@ -30667,16 +30877,17 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_189",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
+          6.0,
           4.0,
-          4.0,
-          3.0
+          4.0
         ],
         "rotation": [
           0.0,
@@ -30690,14 +30901,15 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_190",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
-          5.0,
+          6.0,
           4.0,
           3.0
         ],
@@ -30713,59 +30925,14 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_191",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
-          6.0,
-          4.0,
-          4.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_192",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          6.0,
-          4.0,
-          3.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_193",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
           5.0,
           4.0,
           4.0
@@ -30782,7 +30949,56 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_192",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          4.0,
+          3.0,
+          7.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_193",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          4.0,
+          3.0,
+          8.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_194",
@@ -30791,7 +31007,7 @@
         "position": [
           4.0,
           3.0,
-          7.0
+          9.0
         ],
         "rotation": [
           0.0,
@@ -30805,7 +31021,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_195",
@@ -30814,7 +31031,7 @@
         "position": [
           4.0,
           3.0,
-          8.0
+          10.0
         ],
         "rotation": [
           0.0,
@@ -30828,7 +31045,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_196",
@@ -30837,7 +31055,7 @@
         "position": [
           4.0,
           3.0,
-          9.0
+          11.0
         ],
         "rotation": [
           0.0,
@@ -30851,7 +31069,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_197",
@@ -30860,7 +31079,7 @@
         "position": [
           4.0,
           3.0,
-          10.0
+          12.0
         ],
         "rotation": [
           0.0,
@@ -30874,7 +31093,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_198",
@@ -30883,7 +31103,7 @@
         "position": [
           4.0,
           3.0,
-          11.0
+          13.0
         ],
         "rotation": [
           0.0,
@@ -30897,7 +31117,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_199",
@@ -30906,52 +31127,6 @@
         "position": [
           4.0,
           3.0,
-          12.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_200",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          4.0,
-          3.0,
-          13.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_201",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          4.0,
-          3.0,
           14.0
         ],
         "rotation": [
@@ -30966,7 +31141,56 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_200",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          5.0,
+          3.0,
+          7.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_201",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          5.0,
+          3.0,
+          9.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_202",
@@ -30975,7 +31199,7 @@
         "position": [
           5.0,
           3.0,
-          7.0
+          11.0
         ],
         "rotation": [
           0.0,
@@ -30989,7 +31213,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_203",
@@ -30998,52 +31223,6 @@
         "position": [
           5.0,
           3.0,
-          9.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_204",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          5.0,
-          3.0,
-          11.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_205",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          5.0,
-          3.0,
           12.0
         ],
         "rotation": [
@@ -31058,10 +31237,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_206",
+      "id": "entity_204",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31081,10 +31261,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_207",
+      "id": "entity_205",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31104,10 +31285,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_208",
+      "id": "entity_206",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31127,10 +31309,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_209",
+      "id": "entity_207",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31150,10 +31333,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_210",
+      "id": "entity_208",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31173,10 +31357,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_211",
+      "id": "entity_209",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31196,10 +31381,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_212",
+      "id": "entity_210",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31219,10 +31405,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_213",
+      "id": "entity_211",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31242,7 +31429,56 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_212",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          6.0,
+          3.0,
+          10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_213",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          5.0,
+          3.0,
+          10.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_214",
@@ -31251,7 +31487,7 @@
         "position": [
           6.0,
           3.0,
-          10.0
+          8.0
         ],
         "rotation": [
           0.0,
@@ -31265,7 +31501,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_215",
@@ -31274,7 +31511,7 @@
         "position": [
           5.0,
           3.0,
-          10.0
+          8.0
         ],
         "rotation": [
           0.0,
@@ -31288,56 +31525,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_216",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          6.0,
-          3.0,
-          8.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_217",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          5.0,
-          3.0,
-          8.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_218",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31357,7 +31549,56 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_217",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          7.0,
+          3.0,
+          8.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_218",
+      "model": "environment_hill_grass_flat",
+      "transform": {
+        "position": [
+          7.0,
+          3.0,
+          9.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_219",
@@ -31366,7 +31607,7 @@
         "position": [
           7.0,
           3.0,
-          8.0
+          10.0
         ],
         "rotation": [
           0.0,
@@ -31380,7 +31621,8 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
       "id": "entity_220",
@@ -31389,52 +31631,6 @@
         "position": [
           7.0,
           3.0,
-          9.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_221",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          7.0,
-          3.0,
-          10.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "portal": null,
-      "trigger": null
-    },
-    {
-      "id": "entity_222",
-      "model": "environment_hill_grass_flat",
-      "transform": {
-        "position": [
-          7.0,
-          3.0,
           11.0
         ],
         "rotation": [
@@ -31449,10 +31645,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_223",
+      "id": "entity_221",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31472,10 +31669,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_224",
+      "id": "entity_222",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31495,10 +31693,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_225",
+      "id": "entity_223",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31518,10 +31717,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_226",
+      "id": "entity_224",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31541,10 +31741,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_227",
+      "id": "entity_225",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31564,10 +31765,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_228",
+      "id": "entity_226",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31587,10 +31789,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_229",
+      "id": "entity_227",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31610,10 +31813,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_230",
+      "id": "entity_228",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31633,10 +31837,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_231",
+      "id": "entity_229",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31656,10 +31861,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_232",
+      "id": "entity_230",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31679,10 +31885,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_233",
+      "id": "entity_231",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31702,10 +31909,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_234",
+      "id": "entity_232",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31725,10 +31933,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_235",
+      "id": "entity_233",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31748,10 +31957,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_236",
+      "id": "entity_234",
       "model": "environment_hill_grass_flat",
       "transform": {
         "position": [
@@ -31771,10 +31981,11 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_237",
+      "id": "entity_235",
       "model": "environment_path_path_center",
       "transform": {
         "position": [
@@ -31794,10 +32005,35 @@
         ]
       },
       "portal": null,
-      "trigger": null
+      "trigger": null,
+      "materials": []
     },
     {
-      "id": "entity_238",
+      "id": "entity_236",
+      "model": "environment_path_path_center",
+      "transform": {
+        "position": [
+          0.0,
+          3.0,
+          13.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_237",
       "model": "environment_path_path_center",
       "transform": {
         "position": [
@@ -31817,11 +32053,40 @@
         ]
       },
       "portal": {
+        "title": "",
+        "yrotation": 0,
         "target": "https://raw.githubusercontent.com/stephaneweg/Odyssey/refs/heads/main/snake.json",
         "type": 0,
         "fxtype": 1
       },
-      "trigger": null
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_238",
+      "model": "environment_path_path_center",
+      "transform": {
+        "position": [
+          -1.0,
+          3.0,
+          13.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "lily_blue"
+      ]
     }
   ]
 }
