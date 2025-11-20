@@ -66305,7 +66305,7 @@
       "portal": {
         "title": "HOME 3",
         "yrotation": 0,
-        "target": "Home3.json",
+        "target": "home3.json",
         "type": 0,
         "fxtype": 0
       },
@@ -66365,7 +66365,7 @@
       "portal": {
         "title": "HOME 2",
         "yrotation": -180,
-        "target": "home2;json",
+        "target": "home2.json",
         "type": 0,
         "fxtype": 0
       },
@@ -66604,3 +66604,4 @@
     }
   ]
 }
+
