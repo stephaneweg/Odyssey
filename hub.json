@@ -1,4 +1,4 @@
-﻿{
+{
   "version": "1.0",
   "meta": {
     "title": "Untitled Scene",
@@ -10423,32 +10423,6 @@
     },
     {
       "id": "entity_20",
-      "model": "basic_cylinderhollow",
-      "transform": {
-        "position": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          10.0,
-          1.0,
-          10.0
-        ]
-      },
-      "portal": null,
-      "trigger": null,
-      "materials": [
-        "custom_mat_1"
-      ]
-    },
-    {
-      "id": "entity_21",
       "model": "temple_floor_floor_bridge_ramp",
       "transform": {
         "position": [
@@ -10476,35 +10450,7 @@
       ]
     },
     {
-      "id": "entity_22",
-      "model": "temple_floor_floor_bridge_ramp",
-      "transform": {
-        "position": [
-          -5.5,
-          1.0,
-          0.0
-        ],
-        "rotation": [
-          0.0,
-          -180.0,
-          0.0
-        ],
-        "scale": [
-          2.0,
-          1.0,
-          1.5
-        ]
-      },
-      "portal": null,
-      "trigger": null,
-      "materials": [
-        "custom_mat_3",
-        "custom_mat_3",
-        "custom_mat_3"
-      ]
-    },
-    {
-      "id": "entity_23",
+      "id": "entity_21",
       "model": "temple_floor_floor_bridge_ramp",
       "transform": {
         "position": [
@@ -10532,7 +10478,7 @@
       ]
     },
     {
-      "id": "entity_24",
+      "id": "entity_22",
       "model": "basic_cube",
       "transform": {
         "position": [
@@ -10558,35 +10504,7 @@
       ]
     },
     {
-      "id": "entity_25",
-      "model": "temple_floor_floor_bridge_ramp",
-      "transform": {
-        "position": [
-          5.5,
-          1.0,
-          0.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          2.0,
-          1.0,
-          1.5
-        ]
-      },
-      "portal": null,
-      "trigger": null,
-      "materials": [
-        "custom_mat_3",
-        "custom_mat_3",
-        "custom_mat_3"
-      ]
-    },
-    {
-      "id": "entity_26",
+      "id": "entity_23",
       "model": "basic_cube",
       "transform": {
         "position": [
@@ -10612,57 +10530,7 @@
       ]
     },
     {
-      "id": "entity_27",
-      "model": "basic_cube",
-      "transform": {
-        "position": [
-          13.0,
-          1.8,
-          0.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          5.0,
-          0.2,
-          1.5
-        ]
-      },
-      "portal": null,
-      "trigger": null,
-      "materials": [
-        "custom_mat_3"
-      ]
-    },
-    {
-      "id": "entity_28",
-      "model": "basic_cylinder",
-      "transform": {
-        "position": [
-          0.0,
-          1.0,
-          -19.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          8.0,
-          1.0,
-          8.0
-        ]
-      },
-      "portal": null,
-      "trigger": null,
-      "materials": []
-    },
-    {
-      "id": "entity_29",
+      "id": "entity_24",
       "model": "basic_cylinder",
       "transform": {
         "position": [
@@ -10686,36 +10554,12 @@
       "materials": []
     },
     {
-      "id": "entity_30",
-      "model": "basic_cylinder",
-      "transform": {
-        "position": [
-          19.0,
-          1.0,
-          0.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          8.0,
-          1.0,
-          8.0
-        ]
-      },
-      "portal": null,
-      "trigger": null,
-      "materials": []
-    },
-    {
-      "id": "entity_31",
+      "id": "entity_25",
       "model": "basic_cube",
       "transform": {
         "position": [
           -13.0,
-          1.8,
+          -0.2,
           0.0
         ],
         "rotation": [
@@ -10736,61 +10580,7 @@
       ]
     },
     {
-      "id": "entity_32",
-      "model": "basic_cylinder",
-      "transform": {
-        "position": [
-          -19.0,
-          1.0,
-          0.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          8.0,
-          1.0,
-          8.0
-        ]
-      },
-      "portal": null,
-      "trigger": null,
-      "materials": []
-    },
-    {
-      "id": "entity_33",
-      "model": "basic_cylinder",
-      "transform": {
-        "position": [
-          -22.0,
-          2.0,
-          0.0
-        ],
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "scale": [
-          1.0,
-          0.2,
-          1.0
-        ]
-      },
-      "portal": {
-        "title": "portal",
-        "yrotation": -90,
-        "target": "home2.json",
-        "type": 0,
-        "fxtype": 0
-      },
-      "trigger": null,
-      "materials": []
-    },
-    {
-      "id": "entity_34",
+      "id": "entity_26",
       "model": "basic_cylinder",
       "transform": {
         "position": [
@@ -10818,6 +10608,648 @@
       },
       "trigger": null,
       "materials": []
+    },
+    {
+      "id": "entity_27",
+      "model": "basic_cylinder",
+      "transform": {
+        "position": [
+          -19.0,
+          -1.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          8.0,
+          1.0,
+          8.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_28",
+      "model": "basic_cylinder",
+      "transform": {
+        "position": [
+          -22.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          0.2,
+          1.0
+        ]
+      },
+      "portal": {
+        "title": "portal",
+        "yrotation": -90,
+        "target": "home2.json",
+        "type": 0,
+        "fxtype": 0
+      },
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_29",
+      "model": "temple_floor_floor_bridge_ramp",
+      "transform": {
+        "position": [
+          -9.5,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          2.0,
+          1.0,
+          1.5
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_3",
+        "custom_mat_3",
+        "custom_mat_3"
+      ]
+    },
+    {
+      "id": "entity_30",
+      "model": "temple_floor_floor_bridge_ramp",
+      "transform": {
+        "position": [
+          5.5,
+          1.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          2.0,
+          1.0,
+          1.5
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_3",
+        "custom_mat_3",
+        "custom_mat_3"
+      ]
+    },
+    {
+      "id": "entity_31",
+      "model": "basic_cube",
+      "transform": {
+        "position": [
+          13.0,
+          1.8,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          5.0,
+          0.2,
+          1.5
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_3"
+      ]
+    },
+    {
+      "id": "entity_32",
+      "model": "temple_floor_floor_bridge_ramp",
+      "transform": {
+        "position": [
+          5.5,
+          1.1,
+          -0.8
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          2.0,
+          1.0,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1",
+        "custom_mat_1",
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_33",
+      "model": "temple_floor_floor_bridge_ramp",
+      "transform": {
+        "position": [
+          5.5,
+          1.1,
+          0.8
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          2.0,
+          1.0,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1",
+        "custom_mat_1",
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_34",
+      "model": "basic_cylinder",
+      "transform": {
+        "position": [
+          19.0,
+          1.0,
+          -1.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          8.0,
+          1.0,
+          8.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_35",
+      "model": "temple_floor_floor_bridge_ramp",
+      "transform": {
+        "position": [
+          -0.8,
+          1.1,
+          5.5
+        ],
+        "rotation": [
+          0.0,
+          -90.0,
+          0.0
+        ],
+        "scale": [
+          2.0,
+          1.0,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1",
+        "custom_mat_1",
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_36",
+      "model": "temple_floor_floor_bridge_ramp",
+      "transform": {
+        "position": [
+          -9.5,
+          0.1,
+          0.8
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          2.0,
+          1.0,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1",
+        "custom_mat_1",
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_37",
+      "model": "temple_floor_floor_bridge_ramp",
+      "transform": {
+        "position": [
+          0.8,
+          1.1,
+          -5.5
+        ],
+        "rotation": [
+          0.0,
+          90.0,
+          0.0
+        ],
+        "scale": [
+          2.0,
+          1.0,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1",
+        "custom_mat_1",
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_38",
+      "model": "temple_floor_floor_bridge_ramp",
+      "transform": {
+        "position": [
+          -0.8,
+          1.1,
+          -5.5
+        ],
+        "rotation": [
+          0.0,
+          90.0,
+          0.0
+        ],
+        "scale": [
+          2.0,
+          1.0,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1",
+        "custom_mat_1",
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_39",
+      "model": "basic_cube",
+      "transform": {
+        "position": [
+          13.0,
+          1.9,
+          -0.8
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          5.0,
+          0.2,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_40",
+      "model": "basic_cube",
+      "transform": {
+        "position": [
+          13.0,
+          1.9,
+          0.8
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          5.0,
+          0.2,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_41",
+      "model": "temple_floor_floor_bridge_ramp",
+      "transform": {
+        "position": [
+          0.8,
+          1.1,
+          5.5
+        ],
+        "rotation": [
+          0.0,
+          -90.0,
+          0.0
+        ],
+        "scale": [
+          2.0,
+          1.0,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1",
+        "custom_mat_1",
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_42",
+      "model": "basic_cube",
+      "transform": {
+        "position": [
+          0.8,
+          1.9,
+          13.0
+        ],
+        "rotation": [
+          0.0,
+          -90.0,
+          0.0
+        ],
+        "scale": [
+          5.0,
+          0.2,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_43",
+      "model": "basic_cube",
+      "transform": {
+        "position": [
+          -0.8,
+          1.9,
+          13.0
+        ],
+        "rotation": [
+          0.0,
+          -90.0,
+          0.0
+        ],
+        "scale": [
+          5.0,
+          0.2,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_44",
+      "model": "basic_cube",
+      "transform": {
+        "position": [
+          -0.8,
+          1.9,
+          -13.0
+        ],
+        "rotation": [
+          0.0,
+          -90.0,
+          0.0
+        ],
+        "scale": [
+          5.0,
+          0.2,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_45",
+      "model": "basic_cylinder",
+      "transform": {
+        "position": [
+          0.0,
+          1.0,
+          -19.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          8.0,
+          1.0,
+          8.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": []
+    },
+    {
+      "id": "entity_46",
+      "model": "basic_cube",
+      "transform": {
+        "position": [
+          0.8,
+          1.9,
+          -13.0
+        ],
+        "rotation": [
+          0.0,
+          -90.0,
+          0.0
+        ],
+        "scale": [
+          5.0,
+          0.2,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_47",
+      "model": "temple_floor_floor_bridge_ramp",
+      "transform": {
+        "position": [
+          -9.5,
+          0.1,
+          -0.8
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          2.0,
+          1.0,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1",
+        "custom_mat_1",
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_48",
+      "model": "basic_cube",
+      "transform": {
+        "position": [
+          -13.0,
+          -0.1,
+          -0.8
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          5.0,
+          0.2,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_49",
+      "model": "basic_cube",
+      "transform": {
+        "position": [
+          -13.0,
+          -0.1,
+          0.8
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          5.0,
+          0.2,
+          0.2
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1"
+      ]
+    },
+    {
+      "id": "entity_50",
+      "model": "basic_cylinderhollow",
+      "transform": {
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          10.0,
+          1.0,
+          10.0
+        ]
+      },
+      "portal": null,
+      "trigger": null,
+      "materials": [
+        "custom_mat_1"
+      ]
     }
   ]
 }
